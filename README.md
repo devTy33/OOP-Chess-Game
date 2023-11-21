@@ -6,4 +6,4 @@ Run with:
 
  ./myChessProgram
 
-  - logic for pawn moves implemented 
+  logic for pawn moves implemented 
